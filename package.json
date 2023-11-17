@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "API project for freeCodeCamp",
   "engines": {
-    "node": "20.x"
+    "node": "18.x"
   },
   "main": "index.js",
   "scripts": {
